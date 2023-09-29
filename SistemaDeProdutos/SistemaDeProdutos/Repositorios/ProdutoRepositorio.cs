@@ -11,12 +11,7 @@ namespace SistemaDeProdutos.Repositorios
         public ProdutoRepositorio(SistemaDeProdutosDBContext sistemaDeProdutosDBContext)
         {
             _dbContext = sistemaDeProdutosDBContext;
-        }
-
-        public  Produto? ListarProdutoID(int? id)
-        {
-            return  _dbContext.Produtos.FirstOrDefault(e => e.ProdutoId == id)!;
-        }
+        }       
          
         public IEnumerable<Produto> ListarProdutos()
         {

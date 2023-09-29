@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdyulMpaAyuDXPVm8Zlfy3ppxG/54+yWuX2OEKR26/YOCU3GoNYpQhQKdd9RIIRRHtF/3TJY4d/Vrl587uirSA==",
+  "dgSpecHash": "i4ZaRjW1Ng30VgFVcFgSNsgUzbNr/gmd4sWhFf16rp/xjGB5ZC1zeSQ1woXr4goIVhvhaWHbiy16gtun+b4yhQ==",
   "success": true,
-  "projectFilePath": "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
+  "projectFilePath": "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akils\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\akils\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {}
+    "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {}
   },
   "projects": {
-    "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {
+    "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
+        "projectUniqueName": "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
         "projectName": "SistemaDeProdutos",
-        "projectPath": "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
+        "projectPath": "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
         "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-        "outputPath": "D:\\TESTEkhipo\\DesafioDotNet\\SistemaDeProdutos\\SistemaDeProdutos\\obj\\",
+        "outputPath": "D:\\TESTEkhipo\\Desafio\\DesafioDotNet\\DesafioDoNet\\SistemaDeProdutos\\SistemaDeProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
